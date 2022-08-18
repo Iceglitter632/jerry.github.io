@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iceglitter632.github.io/AboutMe/post/</loc>
-    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    <loc>https://iceglitter632.github.io/AboutMe/friends/autumn/</loc>
+    <lastmod>2022-08-14T17:07:43+02:00</lastmod>
   </url><url>
-    <loc>https://iceglitter632.github.io/AboutMe/post/exchange/</loc>
-    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    <loc>https://iceglitter632.github.io/AboutMe/friends/</loc>
+    <lastmod>2022-08-14T17:07:43+02:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/</loc>
+    <lastmod>2022-08-14T17:07:43+02:00</lastmod>
+  </url><url>
+    <loc>https://iceglitter632.github.io/AboutMe/post/</loc>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iceglitter632.github.io/AboutMe/post/imf/</loc>
+    <lastmod>2022-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iceglitter632.github.io/AboutMe/post/exchange/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/post/switz/</loc>
     <lastmod>2022-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://iceglitter632.github.io/AboutMe/friends/</loc>
-    <lastmod>2022-07-05T17:08:06+02:00</lastmod>
-  </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/friends/shiuan/</loc>
     <lastmod>2022-07-05T17:08:06+02:00</lastmod>
-  </url><url>
-    <loc>https://iceglitter632.github.io/AboutMe/friends/autumn/</loc>
-    <lastmod>2022-07-05T17:07:43+02:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/friends/amber/</loc>
     <lastmod>2022-07-05T17:07:35+02:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/friends/ash/</loc>
+    <lastmod>2022-07-05T17:07:16+02:00</lastmod>
+  </url><url>
+    <loc>https://iceglitter632.github.io/AboutMe/tags/friends/</loc>
+    <lastmod>2022-07-05T17:07:16+02:00</lastmod>
+  </url><url>
+    <loc>https://iceglitter632.github.io/AboutMe/tags/</loc>
     <lastmod>2022-07-05T17:07:16+02:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/post/grad/</loc>
@@ -66,7 +75,5 @@
     <lastmod>2021-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/categories/</loc>
-  </url><url>
-    <loc>https://iceglitter632.github.io/AboutMe/tags/</loc>
   </url>
 </urlset>
