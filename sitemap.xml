@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://iceglitter632.github.io/AboutMe/post/</loc>
+<<<<<<< HEAD
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/post/work/</loc>
@@ -12,6 +13,14 @@
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/post/interview/</loc>
+=======
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iceglitter632.github.io/AboutMe/post/interview/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iceglitter632.github.io/AboutMe/</loc>
+>>>>>>> 9320d276372ddd1cd19036c1a2f6c0e92381c6f5
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://iceglitter632.github.io/AboutMe/post/openai/</loc>

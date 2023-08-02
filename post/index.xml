@@ -6,6 +6,7 @@
     <description>Recent content in Posts on 鬼之叡叡</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iceglitter632.github.io/AboutMe/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>浪花不再歸海</title>
@@ -23,6 +24,9 @@ python download_data.py –- dataset a python download_data.py –- dataset b �
 </description>
     </item>
     
+=======
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iceglitter632.github.io/AboutMe/post/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 9320d276372ddd1cd19036c1a2f6c0e92381c6f5
     <item>
       <title>流星之願</title>
       <link>https://iceglitter632.github.io/AboutMe/post/interview/</link>
